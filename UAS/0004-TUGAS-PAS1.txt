@@ -1,0 +1,40 @@
+Script started on Mon 08 Jun 2020 10:38:43 PM WIB
+kurnia.ilham@badak:~/UAS$
+kurnia.ilham@badak:~/UAS$ PS1="$ "
+$
+$ echo $GitHubUser
+kurilham19
+$ echo PSTAMP
+PSTAMP
+$
+$ eval PSTAMP
+bash: PSTAMP: command not found
+$ PS1="\$(eval \$PSTAMP)"
+200608-223922-9bd6-UAS/> echo -e $CEKSAYA
+kurilham19 ZCZCSCRIPTSTART 200607-193421 kurilham19
+ kurilham19 kurilham19 200607-193617-d91f-kurilham19/ 200607-193617 SEQOK SUMOK d91fd984
+ kurilham19 kurilham19 200607-193636-c368-kurilham19/ 200607-193636 SEQOK SUMOK c3688b4e
+ kurilham19 kurilham19 200607-193808-a04f-kurilham19/ 200607-193808 SEQOK SUMOK a04f5501
+ kurilham19 kurilham19 200607-193821-541d-kurilham19/ 200607-193821 SEQOK SUMOK 541da7bd
+ kurilham19 ZCZCSCRIPTSTOP 200607-193827 SEQOK
+
+200608-223927-d5ba-UAS/> echo -e $CEKSEBELA1
+kurilham19 ZCZCSCRIPTSTART 200604-214703 kyosena
+ kurilham19 kyosena 200604-214730-910f-kyosena.haridza/ 200604-214730 SEQOK SUMNO f8371155
+ kurilham19 kyosena 200604-214739-1747-kyosena.haridza/ 200604 214739 SEQOK SUMNO d4900f20
+ kurilham19 kyosena 200604-214753-f328-kyosena.haridza/ 200604-214739 SEQOK SUMNO d95cc826
+ kurilham19 kyosena 200604-214801-bd79-kyosena.haridza/ 200604-214801 SEQOK SUMNO 85ac1723
+ kurilham19 ZCZCSCRIPTSTOP 200604-214805 SEQOK
+
+200608-223930-2083-UAS/> echo -e $CEKSEBELA2
+kurilham19 ZCZCSCRIPTSTART 200531-155339 leleonardo81
+ kurilham19 leleonardo81 200531-155422-1d74-leonardo81/ 200531-155422 SEQOK SUMOK 1d746b4f
+ kurilham19 leleonardo81 200531-155436-9dd0-leonardo81/ 200531-155436 SEQOK SUMOK 9dd07b1f
+ kurilham19 leleonardo81 200531-155442-6715-leonardo81/ 200531-155442 SEQOK SUMOK 67150ec9
+ kurilham19 leleonardo81 200531-155506-9405-leonardo81/ 200531-155506 SEQOK SUMOK 9405205f
+ kurilham19 ZCZCSCRIPTSTOP 200531-155523 SEQOK
+
+200608-223934-7af8-UAS/> exit
+exit
+
+Script done on Mon 08 Jun 2020 10:39:43 PM WIB
