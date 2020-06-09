@@ -1,13 +1,13 @@
-Script started on Tue 09 Jun 2020 10:51:55 AM WIB
+Script started on Tue 09 Jun 2020 11:58:25 AM WIB
 kurnia.ilham@badak:~/UAS$ PS1="$ "
 $ echo $GitHubUser
 kurilham19
 $ echo $PSTAMP
 TMP1="$(date +%y%m%d-%H%M%S)"; TMP2="$(echo $TMP1-$GitHubUser-${PWD##*/}|sha1sum|cut -c1-4)"; echo "$TMP1-$TMP2-${PWD##*/}/> ";
 $ eval $PSTAMP
-200609-105231-b324-UAS/>
+200609-115847-bb24-UAS/>
 $ PS1="\$(eval \$PSTAMP)"
-200609-105237-d62f-UAS/> echo -e $CEKSAYA
+200609-115854-c6f3-UAS/> echo -e $CEKSAYA
 kurilham19 ZCZCSCRIPTSTART 200607-193421 kurilham19
  kurilham19 kurilham19 200607-193617-d91f-kurnia.ilham/ 200607-193617 SEQOK SUMOK d91fd984
  kurilham19 kurilham19 200607-193636-c368-kurnia.ilham/ 200607-193636 SEQOK SUMOK c3688b4e
@@ -15,15 +15,15 @@ kurilham19 ZCZCSCRIPTSTART 200607-193421 kurilham19
  kurilham19 kurilham19 200607-193821-541d-kurnia.ilham/ 200607-193821 SEQOK SUMOK 541da7bd
  kurilham19 ZCZCSCRIPTSTOP 200607-193827 SEQOK
 
-200609-105249-9bd9-UAS/> echo -e $CEKSEBELA1
-kurilham19 ZCZCSCRIPTSTART 200604-214703 Kyosena
- kurilham19 Kyosena 200604-214730-910f-kyosena.haridza/ 200604-214730 SEQOK SUMNO 6bd00449
- kurilham19 Kyosena 200604-214739-1747-kyosena.haridza/ 200604 214739 SEQOK SUMNO eeb9bf1c
- kurilham19 Kyosena 200604-214753-f328-kyosena.haridza/ 200604-214739 SEQOK SUMNO b8a0f91f
- kurilham19 Kyosena 200604-214801-bd79-kyosena.haridza/ 200604-214801 SEQOK SUMNO bc85e59e
- kurilham19 ZCZCSCRIPTSTOP 200604-214805 SEQOK
+200609-115859-84bb-UAS/> echo -e $CEKSEBELA1
+kurilham19 ZCZCSCRIPTSTART 200609-114245 Kyosena
+ kurilham19 Kyosena 200609-114306-adac-kyosena.haridza/ 200609-114306 SEQOK SUMOK adaca662
+ kurilham19 Kyosena 200609-114313-83c5-kyosena.haridza/ 200609-114313 SEQOK SUMOK 83c5829f
+ kurilham19 Kyosena 200609-114318-5b0c-kyosena.haridza/ 200609-114318 SEQOK SUMOK 5b0ca786
+ kurilham19 Kyosena 200609-114326-98cc-kyosena.haridza/ 200609-114326 SEQOK SUMOK 98cc8d1a
+ kurilham19 ZCZCSCRIPTSTOP 200609-114328 SEQOK
 
-200609-105255-f2c1-UAS/> echo -e $CEKSEBELA2
+200609-115905-b24e-UAS/> echo -e $CEKSEBELA2
 kurilham19 ZCZCSCRIPTSTART 200531-155339 leleonardo81
  kurilham19 leleonardo81 200531-155422-1d74-leonardo81/ 200531-155422 SEQOK SUMOK 1d746b4f
  kurilham19 leleonardo81 200531-155436-9dd0-leonardo81/ 200531-155436 SEQOK SUMOK 9dd07b1f
@@ -31,7 +31,7 @@ kurilham19 ZCZCSCRIPTSTART 200531-155339 leleonardo81
  kurilham19 leleonardo81 200531-155506-9405-leonardo81/ 200531-155506 SEQOK SUMOK 9405205f
  kurilham19 ZCZCSCRIPTSTOP 200531-155523 SEQOK
 
-200609-105258-fc20-UAS/> exit
+200609-115911-c386-UAS/> exit
 exit
 
-Script done on Tue 09 Jun 2020 10:53:00 AM WIB
+Script done on Tue 09 Jun 2020 11:59:13 AM WIB
